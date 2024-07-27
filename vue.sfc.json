@@ -1,0 +1,28 @@
+{
+  "descriptor": {
+    "filename": "anonymous.vue",
+    "source": "<template>\r\n  <div>\r\n    <h1>hello world</h1>\r\n  </div>\r\n</template>\r\n<script setup>\r\nconsole.log(\"test\")\r\n</script>\r\n",
+    "template": {
+      "type": "template",
+      "content": "\r\n  <div>\r\n    <h1>hello world</h1>\r\n  </div>\r\n",
+      "loc": {},
+      "attrs": {},
+      "ast": {},
+      "map": {}
+    },
+    "script": null,
+    "scriptSetup": {
+      "type": "script",
+      "content": "\r\nconsole.log(\"test\")\r\n",
+      "loc": {},
+      "attrs": {},
+      "setup": true
+    },
+    "styles": [],
+    "customBlocks": [],
+    "cssVars": [],
+    "slotted": false,
+    "shouldForceReload": {}
+  },
+  "errors": []
+}

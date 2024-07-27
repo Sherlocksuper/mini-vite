@@ -1,4 +1,1 @@
-import moduleA from "./moduleA.js";
-
-
-console.log(moduleA)
+import "./index.css"
